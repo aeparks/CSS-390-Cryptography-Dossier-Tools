@@ -1,7 +1,7 @@
-# CSS 390 Cryptography Dossier Tools
+# "Dossier Tools" (Autumn 2009)
 The Dossier Tools are small programs written for the explicit purpose
 of helping to analyze, understand, and dicipher coded assignments
-in CSS 390: Cryptogrpahy from the Autumn 2009 quarter at the University
+in CSS 390 Cryptogrpahy course at the University
 of Washington Bothell.
 
 The original goal was to have an automated way to generate a frequency
